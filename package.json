@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "0.0.1",
+  "description": "weather app for Udemy node class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnnyk/Udemy-completeNodeJs-weatherapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhnnyk/Udemy-completeNodeJs-weatherapp/issues"
+  },
+  "homepage": "https://github.com/jhnnyk/Udemy-completeNodeJs-weatherapp#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
